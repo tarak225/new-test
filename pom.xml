@@ -15,6 +15,7 @@
 <artifactId>maven-compiler-plugin</artifactId>
 <version>2.3.2</version>
 <configuration>
+  <! demo one>
 <source>${jdk.version}</source>
 <target>${jdk.version}</target>
 <encoding>${project.build.sourceEncoding}</encoding>
